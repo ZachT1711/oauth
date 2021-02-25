@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cli/oauth)
+
 # oauth
 
 A library for Go client applications that need to perform OAuth authorization against a server, typically GitHub.com.
